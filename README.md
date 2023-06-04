@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/tushar_radadiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_radadiya_11" height="60" width="70" /></a>
   
-<a href="https://instagram.com/tushar_radadiya_11" target="blank"><img align="center" src=https://www.interstellarrift.com/wiki/images/d/d8/Youtube-logo-png-photo-0.png" alt="tushar_radadiya_11" height="60" width="70" /></a>
+<a href="https://instagram.com/tushar_radadiya_11" target="blank"><img align="center" src="https://www.interstellarrift.com/wiki/images/d/d8/Youtube-logo-png-photo-0.png" alt="tushar_radadiya_11" height="60" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
