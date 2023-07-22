@@ -22,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharradadiya&show_icons=true&locale=en&layout=compact" alt="tusharradadiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharradadiya&show_icons=true&locale=en" alt="tusharradadiya" /></p>
 
