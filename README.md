@@ -13,7 +13,7 @@
 <p align="left">
 <!--<a href="https://www.youtube.com/channel/UCcYAHJoypZW_DuDW1O6f4fg" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/youtube-icon-logo-png-transparent.png" alt="UCcYAHJoypZW_DuDW1O6f4fg" height="30" width="50" /></a>-->
 
-<a href="https://www.linkedin.com/in/tushar-radadiya-41b014261"><img align="center" src="https://github.com/tusharradadiya/tusharradadiya/assets/113609040/f6f79f3e-05b7-452d-8fa7-e74153860f62" alt="41b014261" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/tushar-radadiya-41b014261" target="blank"><img align="center" src="https://github.com/tusharradadiya/tusharradadiya/assets/113609040/f6f79f3e-05b7-452d-8fa7-e74153860f62" alt="41b014261" height="50" width="50" /></a>
 
 
 <!--<a href="https://instagram.com/tushar_radadiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_radadiya_11" height="50" width="50" /></a>-->
